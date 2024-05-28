@@ -1,0 +1,24 @@
+:root {
+  /* Warna latar belakang */
+  --background-color: #FFFFFF; /* Latar belakang utama */
+
+  /* Warna teks */
+  --text-color: #333333; /* Warna teks utama */
+  --text-light-color: #FFFFFF; /* Warna teks pada latar belakang gelap */
+  
+  /* Warna primer */
+  --primary-color: #FF5252; /* Warna primer untuk tombol utama dan elemen fokus */
+  --primary-hover-color: #E53935; /* Warna hover untuk tombol utama */
+  
+  /* Warna sekunder */
+  --secondary-color: #FF7F7F; /* Warna sekunder untuk elemen tambahan */
+  --secondary-hover-color: #FF6347; /* Warna hover untuk elemen sekunder */
+
+  /* Warna accent */
+  --accent-color: #FF4500; /* Warna accent untuk penekanan atau elemen spesifik */
+  --accent-hover-color: #FF5722; /* Warna hover untuk elemen accent */
+
+  /* Warna border */
+  --border-color: #CCCCCC; /* Warna border atau garis pemisah */
+}
+

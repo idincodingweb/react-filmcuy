@@ -1,0 +1,20 @@
+.navbar {
+  background: linear-gradient(to right, rgb(0,198,255), rgb(0,114,255));
+  position: fixed;
+}
+
+.navbar-brand, .nav-link {
+  color: var(--text-light-color) !important;
+}
+
+.navbar-toggler {
+  border-color: var(--text-light-color);
+}
+
+.navbar-toggler-icon {
+  background-image: var(--text-light-color);
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}

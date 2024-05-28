@@ -1,0 +1,41 @@
+.about-container {
+  padding: 2rem 0;
+}
+
+.about-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  color: #007BFF;
+}
+
+.about-content img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.about-content h2 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  color: #343A40;
+}
+
+.about-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #495057;
+}
+
+.about-content ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.about-content li {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.about-content li strong {
+  color: #007BFF;
+}

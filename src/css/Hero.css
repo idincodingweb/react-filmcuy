@@ -1,0 +1,21 @@
+.hero {
+  height: 60vh; /* Menggunakan vh untuk memastikan bagian hero mengisi layar */
+  background: linear-gradient(to right, rgba(0, 198, 255, 0.7), rgba(0, 114, 255, 0.7)), url('https://raw.githubusercontent.com/idincodingweb/bioskop45/main/images.jpeg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.hero p {
+  font-size: 24px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
