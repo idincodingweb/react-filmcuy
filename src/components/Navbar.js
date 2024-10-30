@@ -7,7 +7,7 @@ function Navigasibar() {
   return (
     <Navbar fixed="top" expand="md">
       <Container>
-        <Navbar.Brand as={Link} to="/" className="fw-bold text-white">Logo</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/" className="fw-bold text-white">Idin Code Movie</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
