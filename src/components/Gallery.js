@@ -3,7 +3,7 @@ import { Container, Row, Col, Card } from 'react-bootstrap';
 import '../css/Gallery.css';
 
 const teamMembers = [
-  { name: 'Idin-Code', role: 'Lead Developer', image: 'https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/IMG_20241031_001653.jpg' },
+  { name: 'Idin-Code', role: 'Lead Developer', image: 'https://raw.githubusercontent.com/idincodingweb/netflix-clone/refs/heads/main/src/images/FB_IMG_1733158331408.jpg' },
   { name: 'Reny Aulia', role: 'Designer', image: 'https://raw.githubusercontent.com/idincodingweb/packgambar/main/pink_nurulrr-27-05-2024-0001.jpg' },
   { name: 'Diana Mely', role: 'Backend Developer', image: 'https://raw.githubusercontent.com/idincodingweb/packgambar/main/feel__la.26-27-05-2024-0001.jpg' },
   // Tambahkan anggota tim lainnya di sini
